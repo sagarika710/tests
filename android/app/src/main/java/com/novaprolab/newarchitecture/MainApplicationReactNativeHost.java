@@ -1,4 +1,4 @@
-package com.novaprolabs.newarchitecture;
+package com.novaprolab.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.fabric.ReactNativeConfig;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.novaprolabs.BuildConfig;
-import com.novaprolabs.newarchitecture.components.MainComponentsRegistry;
-import com.novaprolabs.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.novaprolab.BuildConfig;
+import com.novaprolab.newarchitecture.components.MainComponentsRegistry;
+import com.novaprolab.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 

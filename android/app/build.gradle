@@ -135,7 +135,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.novaprolabs"
+        applicationId "com.novaprolab"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion 33
         versionCode 2
