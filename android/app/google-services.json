@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597404439118",
+    "project_id": "nova-8a700",
+    "storage_bucket": "nova-8a700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597404439118:android:4eb86d2ab2429c2e80e91f",
+        "android_client_info": {
+          "package_name": "com.novaprolabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597404439118-dd7r2pssa240jvdfaa3e3ar0nkfs148t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqPM0_b6p_y17tEvv0FIehGPdAxbs65Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597404439118-dd7r2pssa240jvdfaa3e3ar0nkfs148t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
